@@ -1,10 +1,10 @@
-# 🚗 Real-Time Ride Analytics System
+# Real-Time Ride Analytics System
 
 A scalable, real-time data engineering solution designed for a ride-sharing platform. This project ingests, processes, and analyzes ride data to support operational dashboards, anomaly detection, and predictive modeling.
 
 ---
 
-## 📌 Business Objectives
+## Business Objectives
 
 - Monitor ride operations across cities and zones in real time
 - Detect anomalies like surge pricing and idle driver behavior
@@ -14,7 +14,7 @@ A scalable, real-time data engineering solution designed for a ride-sharing plat
 
 ---
 
-## 🧱 System Architecture
+## System Architecture
 Mobile App → Kafka → Spark Streaming (Databricks) → Delta Lake (ADLS) → Azure Synapse → Power BI
 
 **Supporting Services:**
@@ -25,7 +25,7 @@ Mobile App → Kafka → Spark Streaming (Databricks) → Delta Lake (ADLS) → 
 
 ---
 
-## 🎯 Functional Requirements
+## Functional Requirements
 
 ### Real-Time Ingestion
 - Capture ride events (start, stop, location, fare, rating) with <5s latency
@@ -58,7 +58,7 @@ Mobile App → Kafka → Spark Streaming (Databricks) → Delta Lake (ADLS) → 
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 | Component       | Technology                          |
 |----------------|--------------------------------------|
@@ -73,7 +73,7 @@ Mobile App → Kafka → Spark Streaming (Databricks) → Delta Lake (ADLS) → 
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 - Average ride duration per city
 - Median wait time
@@ -86,7 +86,7 @@ Mobile App → Kafka → Spark Streaming (Databricks) → Delta Lake (ADLS) → 
 
 ---
 
-## 📅 Timeline & Milestones
+## Timeline & Milestones
 
 | Milestone                  | Target Date |
 |---------------------------|-------------|
@@ -101,7 +101,7 @@ Mobile App → Kafka → Spark Streaming (Databricks) → Delta Lake (ADLS) → 
 
 ---
 
-## ✅ Success Criteria
+## Success Criteria
 
 - Dashboards reflect real-time metrics with <5s latency
 - Data validation passes >99% of events
@@ -111,7 +111,8 @@ Mobile App → Kafka → Spark Streaming (Databricks) → Delta Lake (ADLS) → 
 
 ---
 
-## 👤 Author
+## Author
+Pavan Rampally
 
 **Pavan**  
 Cloud Data Architect | Databricks Specialist | Curriculum Designer  
