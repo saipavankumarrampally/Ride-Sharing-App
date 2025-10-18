@@ -115,7 +115,7 @@ Mobile App → Kafka → Spark Streaming (Databricks) → Delta Lake (ADLS) → 
 Pavan Rampally
 
 **Pavan**  
-Cloud Data Architect | Databricks Specialist | Curriculum Designer  
+Cloud Data Engineer | Databricks | Azure 
 📫 [LinkedIn](https://www.linkedin.com) | 🧠 Passionate about analogy-driven learning and scalable data systems
 
 ---
